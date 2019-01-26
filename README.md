@@ -6,7 +6,6 @@ appears as:
 "Welcome to Bulls and Cows
 
 E:\UdemyCourse\UnrealCourse\Section_02\Debug\BullCowGame.exe (process 7560) exited with code 0.
-
 Press any key to close this window . . ."
 
 Need help eliminating the E:\ path from the output.
